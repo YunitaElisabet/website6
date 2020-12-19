@@ -1,0 +1,22 @@
+textarea{
+	width: 400px;
+	height: 80px;
+	background-color: #fff;
+	resize: none;
+}
+
+.comment-box {
+	width: 815px;
+	padding: 20px;
+	margin-bottom: 4px;
+	background-color: #fff;
+	border-radius: 4px;
+	position: relative;
+}
+ 
+.edit-btn {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+	
